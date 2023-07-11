@@ -1,0 +1,1 @@
+Total lines: 7.Sorted data: -2 1 1 1 333 4 42
